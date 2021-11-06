@@ -8,4 +8,4 @@ To choose searching method to find the best solotion, use ```-m``` or ```--metho
 
 ### Requirements:
 - Python 3.x
-- Pygame 2.x
+- PyGame 2.x
