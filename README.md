@@ -1,4 +1,4 @@
-# Sokoban auto-playing using simple search algprithms (DFS, BFS, UCS)
+# Sokoban auto-playing using simple search algorithms (DFS, BFS, UCS)
 ---
 
 ### How to run
